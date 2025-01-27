@@ -1,6 +1,7 @@
 # Madlib Generator
 ## Create funny stories using this madlib generator
 ### Text format:
++ The text should be written in one line.
 + The words that will be added by the user should be enclosed with angled brackets.
 + Place the word's descriptor inside the brackets, e.g. \<adjective>, \<noun>, etc.
   
